@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a2 as t}from"./chunks/framework.D1hlZQ02.js";const g=JSON.parse('{"title":"Netwoek 1-1","description":"","frontmatter":{},"headers":[],"relativePath":"network1-1.md","filePath":"network1-1.md"}'),o={name:"network1-1.md"},i=t("",42),n=[i];function l(d,p,h,r,c,u){return s(),e("div",null,n)}const k=a(o,[["render",l]]);export{g as __pageData,k as default};
