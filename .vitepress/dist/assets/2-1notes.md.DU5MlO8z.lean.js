@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as p,a2 as e}from"./chunks/framework.D1hlZQ02.js";const b=JSON.parse('{"title":"2024年2月1日筆記","description":"","frontmatter":{},"headers":[],"relativePath":"2-1notes.md","filePath":"2-1notes.md"}'),n={name:"2-1notes.md"},t=e("",33),i=[t];function l(c,o,d,h,g,u){return p(),a("div",null,i)}const v=s(n,[["render",l]]);export{b as __pageData,v as default};

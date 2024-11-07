@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,a2 as l}from"./chunks/framework.D1hlZQ02.js";const v=JSON.parse('{"title":"Natas ans","description":"","frontmatter":{},"headers":[],"relativePath":"natas-ans.md","filePath":"natas-ans.md"}'),o={name:"natas-ans.md"},t=l("",26),i=[t];function d(n,r,c,m,h,u){return s(),a("div",null,i)}const b=e(o,[["render",d]]);export{v as __pageData,b as default};
